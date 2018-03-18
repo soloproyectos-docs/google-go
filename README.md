@@ -1,5 +1,5 @@
 # google-go
-Manual and shortcuts. Mor information in:  
+Manual and shortcuts. More information in:  
 https://golang.org/doc/code.html
 
 It is a good practice to create a project inside your "github" account to prevent package collisions:
