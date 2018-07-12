@@ -33,4 +33,10 @@ The previous command creates an executable into the `$GOPATH/bin` folder.
 ```bash
 # Install and alternatively update (-u) a package dependency
 go -u github.com/path/to/package
+
+# Compile and install the application into $GOPATH/bin directory
+go install
+
+# Compile the application into the current directory
+go build
 ```
