@@ -39,4 +39,7 @@ go install
 
 # Compile the application into the current directory
 go build
+
+# Opens the tour application
+go tool tour
 ```
