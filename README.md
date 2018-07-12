@@ -1,4 +1,4 @@
-# google-go
+# google-go (golang)
 Manual and shortcuts. More information in:  
 https://golang.org/doc/code.html
 
@@ -28,3 +28,9 @@ go install github.com/user/hello
 ```
 
 The previous command creates an executable into the `$GOPATH/bin` folder.
+
+**More useful instructions:**
+```bash
+# Install and alternatively update (-u) a package dependency
+go -u github.com/path/to/package
+```
